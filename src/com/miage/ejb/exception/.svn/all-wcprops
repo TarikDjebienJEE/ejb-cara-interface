@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/43/trunk/ejb-interface/src/com/miage/ejb/exception
+END
+UserBadLoginException.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/43/trunk/ejb-interface/src/com/miage/ejb/exception/UserBadLoginException.java
+END
+UserAlreadyExistException.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/43/trunk/ejb-interface/src/com/miage/ejb/exception/UserAlreadyExistException.java
+END

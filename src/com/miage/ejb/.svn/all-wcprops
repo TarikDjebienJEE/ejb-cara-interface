@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/49/trunk/ejb-interface/src/com/miage/ejb
+END
+IArticleServiceRemote.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/49/trunk/ejb-interface/src/com/miage/ejb/IArticleServiceRemote.java
+END
+IUtilisateurServiceRemote.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/49/trunk/ejb-interface/src/com/miage/ejb/IUtilisateurServiceRemote.java
+END

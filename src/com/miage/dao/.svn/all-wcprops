@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/49/trunk/ejb-interface/src/com/miage/dao
+END
+IUtilisateurDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/49/trunk/ejb-interface/src/com/miage/dao/IUtilisateurDAO.java
+END
+IArticleDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/49/trunk/ejb-interface/src/com/miage/dao/IArticleDAO.java
+END
